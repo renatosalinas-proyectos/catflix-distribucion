@@ -4,10 +4,10 @@ Este repositorio público guarda únicamente las versiones aprobadas para distri
 
 ## Descargas directas permanentes
 
-- [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Android.apk)
+- [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk)
 - [CatFlix Google TV](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Google-TV.apk)
 
-El QR de Android debe codificar exactamente la primera dirección. GitHub redirige `latest/download` al archivo adjunto en la versión marcada como más reciente. Al publicar una versión nueva, incluir **ambos APK** con esos nombres fijos, incluso si una plataforma no cambió. Así los dos enlaces siguen funcionando. Verificar la descarga antes de cambiar la marca `latest`.
+El QR de Android debe codificar exactamente la primera dirección. La publicación más reciente es Google TV y no contiene el APK de Android. Por eso Android apunta a su versión aprobada específica. Antes de crear un QR o compartir un enlace permanente, establecer una dirección estable por plataforma que consulte `versions.json` y redirija al archivo aprobado; verificar la descarga real antes de publicarlo.
 
 Windows se incorporará cuando exista un instalador aprobado para distribuir. La versión alfa no ocupa el canal `latest`.
 
