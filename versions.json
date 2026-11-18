@@ -3,13 +3,14 @@
   "android": {
     "versionCode": 30,
     "versionName": "0.12.9",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Android.apk",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk",
     "sha256": "6794703d9d3e4bf29842a504f416aba0afd96c26b05e98c489116fef1dc049b8"
   },
   "googleTv": {
-    "versionName": "0.13.0",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Google-TV.apk",
-    "sha256": "d4a88e85e7bcb7a49cf5036ea0cdb575c10df589c78571346057843d01a7f1e8"
+    "versionCode": 33,
+    "versionName": "0.13.2",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.2-google-tv/CatFlix-Google-TV.apk",
+    "sha256": "1c4e61b86865b936787a0e1faeecca737c70a2f2ad3d77485d613b79408b40a3"
   },
   "admin": {
     "versionCode": 30,
