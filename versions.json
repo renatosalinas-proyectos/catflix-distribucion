@@ -4,7 +4,8 @@
     "versionCode": 30,
     "versionName": "0.12.9",
     "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk",
-    "sha256": "6794703d9d3e4bf29842a504f416aba0afd96c26b05e98c489116fef1dc049b8"
+    "sha256": "6794703d9d3e4bf29842a504f416aba0afd96c26b05e98c489116fef1dc049b8",
+    "available": true
   },
   "googleTv": {
     "versionCode": 33,
@@ -16,5 +17,10 @@
     "versionCode": 30,
     "versionName": "0.12.9",
     "available": false
+  },
+  "windows": {
+    "available": false,
+    "versionName": "0.1.1-alfa",
+    "url": ""
   }
 }
