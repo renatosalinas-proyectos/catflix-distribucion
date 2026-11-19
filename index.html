@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#071327"><title>CatFlix · Descargas</title>
+<style>
+:root{color-scheme:dark;--bg:#071327;--panel:#102343;--cyan:#14c9ff;--text:#f4f8ff;--muted:#b7c7df}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(ellipse at 50% -15%,#164b8a,var(--bg) 65%);font:16px system-ui,sans-serif;color:var(--text);min-height:100vh}
+main{max-width:900px;margin:auto;padding:clamp(24px,6vw,64px) 20px}
+header{text-align:center;margin-bottom:34px}h1{font-size:clamp(2.3rem,8vw,4rem);margin:0;color:var(--cyan);letter-spacing:.04em}header p{color:var(--muted);font-size:1.1rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}.card{background:linear-gradient(145deg,#15325a,#0d1d37);border:1px solid #2a527d;border-radius:20px;padding:22px;box-shadow:0 14px 36px #0004}.card h2{margin:0 0 8px}.card p{color:var(--muted);min-height:44px}.btn{display:block;text-align:center;text-decoration:none;background:var(--cyan);color:#03213b;font-weight:750;padding:13px 16px;border-radius:12px}.btn[aria-disabled=true]{opacity:.45;pointer-events:none}.version{font-size:.9rem;color:var(--muted);margin-top:12px}
+.note{margin-top:28px;background:#0b1c33;border-radius:14px;padding:18px;color:var(--muted);line-height:1.55}footer{text-align:center;color:var(--muted);font-size:.85rem;margin-top:28px}
+</style></head>
+<body><main><header><h1>CatFlix</h1><p>Descargas oficiales para tus dispositivos</p></header>
+<section class="cards">
+<article class="card"><h2>📱 Usuario Android</h2><p>Para celulares y tablets Android.</p><a class="btn" id="android" aria-disabled="true">Cargando…</a><div class="version" id="androidVersion"></div></article>
+<article class="card"><h2>🛠 Administrador Android</h2><p>Versión para administrar tus listas y dispositivos.</p><a class="btn" id="admin" aria-disabled="true">Cargando…</a><div class="version" id="adminVersion"></div></article>
+<article class="card"><h2>📺 Google TV</h2><p>Instalador para Android TV y Chromecast con Google TV.</p><a class="btn" id="tv" aria-disabled="true">Cargando…</a><div class="version" id="tvVersion"></div></article>
+<article class="card"><h2>💻 Windows</h2><p>La versión para Windows aún no está publicada.</p><a class="btn" id="windows" aria-disabled="true">Próximamente</a></article>
+</section>
+<div class="note"><strong>Instalación Android:</strong> descarga el APK y ábrelo desde tu dispositivo. Si Android lo solicita, permite instalar aplicaciones para CatFlix. Para actualizar, instala la nueva versión sobre la anterior; conserva los datos si ya tienes la edición firmada correspondiente.</div>
+<footer>CatFlix · página de distribución</footer></main>
+<script>
+(async()=>{try{const r=await fetch('./versions.json',{cache:'no-store'});if(!r.ok)throw 0;const v=await r.json();function card(id,verId,item,label){const a=document.getElementById(id),ver=document.getElementById(verId);if(item&&item.available&&item.url){a.href=item.url;a.textContent=label;a.removeAttribute('aria-disabled');ver.textContent='Versión '+(item.versionName||'');}}
+card('android','androidVersion',v.android,'Descargar CatFlix Usuario');card('admin','adminVersion',v.admin,'Descargar Administrador');card('tv','tvVersion',v.googleTv,'Descargar CatFlix Google TV');if(v.windows?.available)card('windows','',v.windows,'Descargar para Windows');}catch(e){for(const id of ['android','admin','tv'])document.getElementById(id).textContent='No disponible';}})();
+</script></body></html>
