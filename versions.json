@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 31,
-    "versionName": "0.13.0",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.0-android/CatFlix-Android.apk",
-    "sha256": "246b1537e341b7d9ca7b5949a2a8f2f45512b9c6298b0eba8ce534ed156a1856",
+    "versionCode": 32,
+    "versionName": "0.13.1",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.0-android/CatFlix-Android-0.13.1.apk",
+    "sha256": "4eff7eb33bc2e9192ae8d762b2458272b688720991adfddfe22d9e6ff9e3c476",
     "available": true
   },
   "googleTv": {
-    "versionCode": 33,
-    "versionName": "0.13.2",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.2-google-tv/CatFlix-Google-TV.apk",
-    "sha256": "1c4e61b86865b936787a0e1faeecca737c70a2f2ad3d77485d613b79408b40a3",
+    "versionCode": 35,
+    "versionName": "0.13.4",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.2-google-tv/CatFlix-Google-TV-0.13.4.apk",
+    "sha256": "690a03cc630c326b2a5a4f91bbe7f1691ef876a66b7fbd957a937f9a5bc36c1a",
     "available": true
   },
   "admin": {
-    "versionCode": 31,
-    "versionName": "0.13.0",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.0-android/CatFlix-Administrador.apk",
-    "sha256": "f0bf184189f68dd196e4585e6a1abf4cb95335852784d64f25eced3a27c3da31",
+    "versionCode": 32,
+    "versionName": "0.13.1",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.0-android/CatFlix-Administrador-0.13.1.apk",
+    "sha256": "0cb41bd2587a9b01114fd7c0b236f30ce887b8c19cfaebef9724384a2dca1318",
     "available": true
   },
   "windows": {
     "available": false,
-    "versionName": "0.1.1-alfa",
+    "versionName": "0.1.5-alfa",
     "url": ""
   }
 }
