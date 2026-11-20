@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 33,
-    "versionName": "0.13.2",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.2-android/CatFlix-Android-0.13.2.apk",
-    "sha256": "885cd74cf1479b64e957b481c2be2be02ea86d512d1b999cff4a3cb664b8181d",
+    "versionCode": 34,
+    "versionName": "0.13.3",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.3-android/CatFlix-Android-0.13.3.apk",
+    "sha256": "404740c85ff315b6f1f1a62eb3fc4d837904d059eb9adb9fa53e5173c101e9e9",
     "available": true
   },
   "googleTv": {
@@ -15,10 +15,10 @@
     "available": true
   },
   "admin": {
-    "versionCode": 33,
-    "versionName": "0.13.2",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.2-android/CatFlix-Administrador-0.13.2.apk",
-    "sha256": "37c033487d476cfe0da65fbc027a0c446a3726e2692a64c3829b829c7b195bff",
+    "versionCode": 34,
+    "versionName": "0.13.3",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.3-android/CatFlix-Administrador-0.13.3.apk",
+    "sha256": "5454677b4699d58ceaf16c781fbea7ce73136ee2842210ba9047081a9db741ff",
     "available": true
   },
   "windows": {
