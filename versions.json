@@ -22,8 +22,9 @@
     "available": true
   },
   "windows": {
-    "available": false,
+    "available": true,
     "versionName": "0.1.5-alfa",
-    "url": ""
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.5/CatFlix-Windows-x64-0.1.5.zip",
+    "sha256": "7479ede706c9af294e636bc947de354f85114695107a013943f356cf84ba5f00"
   }
 }
