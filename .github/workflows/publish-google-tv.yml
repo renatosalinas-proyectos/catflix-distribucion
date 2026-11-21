@@ -1,0 +1,31 @@
+name: Publish CatFlix Google TV APK
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'versions.json'
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Add the signed TV APK
+        env:
+          APK_ARCHIVE_URL: "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-5ed4-820e-b72b-827f8a8b92c5/raw?se=2026-11-21T04%3A09%3A09Z&sp=r&sv=2026-06-06&sr=b&scid=62360dc3-9c93-47dc-bed4-ecb930f7d433&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-20T12%3A40%3A51Z&ske=2026-11-21T12%3A40%3A51Z&sks=b&skv=2026-06-06&sig=XVvOdh6Ecu8H4W3ZXl59yDGFEOUbso/P7V2nFu8OxtY%3D"
+        run: |
+          set -euo pipefail
+          curl --fail --location --silent --show-error "$APK_ARCHIVE_URL" -o /tmp/catflix-tv.zip
+          unzip -p /tmp/catflix-tv.zip app-googleTv-release.apk > CatFlix-Google-TV-0.13.6.apk
+          echo "e4d665a0d19b5f821f60c4fe3e9f4be63cf3de93b5046024cdc23477d16416e4  CatFlix-Google-TV-0.13.6.apk" | sha256sum --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CatFlix-Google-TV-0.13.6.apk
+          git commit -m "Publish CatFlix Google TV 0.13.6"
+          git push
