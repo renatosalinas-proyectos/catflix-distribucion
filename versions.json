@@ -26,5 +26,14 @@
     "versionName": "0.1.5-alfa",
     "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.5/CatFlix-Windows-x64-0.1.5.zip",
     "sha256": "7479ede706c9af294e636bc947de354f85114695107a013943f356cf84ba5f00"
+  },
+  "fireTvOs5": {
+    "versionCode": 1,
+    "versionName": "0.1.0",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.1.0-fire-tv-os5/CatFlix-Fire-TV-FireOS5-0.1.0.apk",
+    "sha256": "7943d7beda91ca6f933b10004e1cf12032426a2adcee149ff090a30d3ad317b5",
+    "available": true,
+    "experimental": true,
+    "device": "Fire TV Stick (2.ª gen., Fire OS 5)"
   }
 }
