@@ -8,10 +8,10 @@
     "available": true
   },
   "googleTv": {
-    "versionCode": 45,
-    "versionName": "0.14.4",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.14.4-google-tv/CatFlix-Google-TV-0.14.4.apk",
-    "sha256": "8164bd166bd69072ee962faa83b30ce4dcd29d917c157509f04062350846cbe9",
+    "versionCode": 46,
+    "versionName": "0.14.5",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.14.5-google-tv/CatFlix-Google-TV-0.14.5.apk",
+    "sha256": "4d87359f58a47a104dfa0f1401e604c7d16a964ef0af6a5860f041645346331e",
     "available": true
   },
   "admin": {
