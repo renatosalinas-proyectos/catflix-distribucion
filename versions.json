@@ -28,10 +28,10 @@
     "sha256": "7479ede706c9af294e636bc947de354f85114695107a013943f356cf84ba5f00"
   },
   "fireTvOs5": {
-    "versionCode": 8,
-    "versionName": "0.1.7",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.1.7-fire-tv-os5/CatFlix-Fire-TV-0.1.7.apk",
-    "sha256": "ecf71213c1aad9f02b48318be92a22c48ca8f2dbe00ac1e0e42ca336b2af2eb8",
+    "versionCode": 9,
+    "versionName": "0.1.8",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.1.8-fire-tv-os5/CatFlix-Fire-TV-0.1.8.apk",
+    "sha256": "87ca5a1ea8cf3c7555cb07a855cfacfd8de0a2cbee7bb282ce8d0d57940db075",
     "available": true,
     "experimental": true,
     "device": "Fire TV Stick (2.ª gen., Fire OS 5)"
