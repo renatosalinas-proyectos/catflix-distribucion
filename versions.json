@@ -4,7 +4,7 @@
     "versionCode": 35,
     "versionName": "0.13.4",
     "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.4-android/CatFlix-Android-0.13.4.apk",
-    "sha256": "6df17195199aa0eea988f3f4420e44a0578f054345bdbf0f29a31847b51791c0",
+    "sha256": "6df17195199aa0eea988f3f4420e44a0578f054345bdbf0f29a31847b51791c0c",
     "available": true
   },
   "googleTv": {
@@ -23,9 +23,9 @@
   },
   "windows": {
     "available": true,
-    "versionName": "0.1.5-alfa",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.5/CatFlix-Windows-x64-0.1.5.zip",
-    "sha256": "7479ede706c9af294e636bc947de354f85114695107a013943f356cf84ba5f00"
+    "versionName": "0.1.6-alfa",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.6/CatFlix-Windows-x64-0.1.6-ALFA.zip",
+    "sha256": "3dee3d64812ec43cf015b04fd7f87c3a3fb2bf56ee1d2d7eac5505834cd29d39"
   },
   "fireTvOs5": {
     "versionCode": 12,
