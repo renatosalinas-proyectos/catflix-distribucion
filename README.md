@@ -2,17 +2,15 @@
 
 Este repositorio público guarda únicamente las versiones aprobadas para distribuir. No almacenar código fuente, credenciales Xtream, claves de firma ni datos de usuarios.
 
-## Descargas directas permanentes
+## Descargas directas
 
 - [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk)
-- [CatFlix Google TV](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Google-TV.apk)
+- [CatFlix Google TV 0.15.2 PiP (prueba)](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.2-google-tv-pip-preview/CatFlix-Google-TV-0.15.2-PiP.apk)
 - [CatFlix Windows x64 0.1.7 alfa](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.7/CatFlix-Windows-x64-0.1.7-ALFA.zip)
 
-El QR de Android debe codificar exactamente la primera dirección. La publicación más reciente es Google TV y no contiene el APK de Android. Por eso Android apunta a su versión aprobada específica. Antes de crear un QR o compartir un enlace permanente, establecer una dirección estable por plataforma que consulte `versions.json` y redirija al archivo aprobado; verificar la descarga real antes de publicarlo.
+La sincronización de listas M3U compartidas sigue pendiente. La publicación PiP de Google TV es de prueba; su APK está firmado con la misma firma de distribución para permitir instalarla sobre la versión firmada anterior y conservar los datos.
 
-Windows 0.1.7 está publicada como alfa para pruebas y no ocupa el canal `latest`.
-
-## Flujo previsto
+## Flujo de distribución
 
 | Plataforma | Distribución | Actualización |
 | --- | --- | --- |
