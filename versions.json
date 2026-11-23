@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 34,
-    "versionName": "0.13.3",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.3-android/CatFlix-Android-0.13.3.apk",
-    "sha256": "404740c85ff315b6f1f1a62eb3fc4d837904d059eb9adb9fa53e5173c101e9e9",
+    "versionCode": 35,
+    "versionName": "0.13.4",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.4-android/CatFlix-Android-0.13.4.apk",
+    "sha256": "6df17195199aa0eea988f3f4420e44a0578f054345bdbf0f29a31847b51791c0",
     "available": true
   },
   "googleTv": {
