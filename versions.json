@@ -23,9 +23,9 @@
   },
   "windows": {
     "available": true,
-    "versionName": "0.1.6-alfa",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.6/CatFlix-Windows-x64-0.1.6-ALFA.zip",
-    "sha256": "3dee3d64812ec43cf015b04fd7f87c3a3fb2bf56ee1d2d7eac5505834cd29d39"
+    "versionName": "0.1.7-alfa",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.7/CatFlix-Windows-x64-0.1.7-ALFA.zip",
+    "sha256": "441c321a4936251ca0d7b4628f9568320ee7a1b647cfe32bc48f6510bc3a8ba7"
   },
   "fireTvOs5": {
     "versionCode": 12,
