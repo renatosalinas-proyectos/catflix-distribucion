@@ -6,10 +6,11 @@ Este repositorio público guarda únicamente las versiones aprobadas para distri
 
 - [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk)
 - [CatFlix Google TV](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/latest/download/CatFlix-Google-TV.apk)
+- [CatFlix Windows x64 0.1.6 alfa](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.6/CatFlix-Windows-x64-0.1.6-ALFA.zip)
 
 El QR de Android debe codificar exactamente la primera dirección. La publicación más reciente es Google TV y no contiene el APK de Android. Por eso Android apunta a su versión aprobada específica. Antes de crear un QR o compartir un enlace permanente, establecer una dirección estable por plataforma que consulte `versions.json` y redirija al archivo aprobado; verificar la descarga real antes de publicarlo.
 
-Windows se incorporará cuando exista un instalador aprobado para distribuir. La versión alfa no ocupa el canal `latest`.
+Windows 0.1.6 está publicada como alfa para pruebas y no ocupa el canal `latest`.
 
 ## Flujo previsto
 
