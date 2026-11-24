@@ -8,10 +8,10 @@
     "available": true
   },
   "googleTv": {
-    "versionCode": 60,
-    "versionName": "0.15.9 · señal preparada durante la intro",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.9-google-tv-prebuffer/CatFlix-Google-TV-0.15.9.apk",
-    "sha256": "1e6e2ba0600e94475af58d74e54c3ce44a11861475fec29da32b02f3ace79747",
+    "versionCode": 61,
+    "versionName": "0.15.10 · inicio y PiP",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.10-google-tv/CatFlix-Google-TV-0.15.10.apk",
+    "sha256": "620872474747d015cd1423b2fb4813777ec3b301ddedffa66a2c4d5ed45339ea",
     "available": true
   },
   "admin": {
