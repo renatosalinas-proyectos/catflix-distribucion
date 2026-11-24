@@ -9,9 +9,9 @@
   },
   "googleTv": {
     "versionCode": 63,
-    "versionName": "0.15.12 · inicio directo · paquete firmado",
-    "url": "https://sdmntprbrazilsouth.oaiusercontent.com/files/00000000-8758-820e-8b6f-80ee5ac27149/raw?se=2026-11-24T16%3A31%3A35Z&sp=r&sv=2026-06-06&sr=b&scid=9b3c6706-f2c4-419e-bc7d-deac3f4448b6&skoid=4a431cd2-eafd-49c7-90be-bbb4d45e696d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2026-11-24T10%3A26%3A59Z&ske=2026-11-25T10%3A26%3A59Z&sks=b&skv=2026-06-06&sig=7qHYwWYEeA7VzDKYLijbSar9Wor5K68SMT2VbrLYNJU%3D",
-    "sha256": "a2a5bc5edd897713c8441725928730a36e5f9cf776ec80eda94480f95b0721e0",
+    "versionName": "0.15.12 · inicio directo",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.12-google-tv/CatFlix-Google-TV-0.15.12.apk",
+    "sha256": "",
     "available": true
   },
   "admin": {
