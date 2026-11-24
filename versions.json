@@ -10,8 +10,8 @@
   "googleTv": {
     "versionCode": 63,
     "versionName": "0.15.12 · inicio directo",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.12-google-tv/CatFlix-Google-TV-0.15.12.apk",
-    "sha256": "",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.12-google-tv/app-googleTv-release.apk",
+    "sha256": "b45953be8952ce47c1aac26a946cf2877713a514287e443c3f5acf50677f5f5c",
     "available": true
   },
   "admin": {
