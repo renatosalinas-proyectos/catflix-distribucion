@@ -8,10 +8,10 @@
     "available": true
   },
   "googleTv": {
-    "versionCode": 54,
-    "versionName": "0.15.3 · PiP prueba",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.3-google-tv-pip-preview/CatFlix-Google-TV-0.15.3-PiP.apk",
-    "sha256": "86f58273cf64acbd88d09caed88f0747aa930f805045bff436192d5ac3e1bae4",
+    "versionCode": 55,
+    "versionName": "0.15.4 · PiP prueba",
+    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.4-google-tv-black-screen-fix/CatFlix-Google-TV-0.15.4-PiP.apk",
+    "sha256": "e8fe112c6966f551447796e179a2327ad3bc1e1dcbd2f445586b6ecf9ed78e9c",
     "available": true
   },
   "admin": {
