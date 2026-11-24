@@ -8,10 +8,10 @@
     "available": true
   },
   "googleTv": {
-    "versionCode": 58,
-    "versionName": "0.15.7 · corrección de video al iniciar",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.7-google-tv-video-surface/CatFlix-Google-TV-0.15.7.apk",
-    "sha256": "fa50d5c686ddc3bdec5d43bd36382ceea3abc8ae7d5a9bcd0913f8c7291b88dd",
+    "versionCode": 59,
+    "versionName": "0.15.8 · inicio de video optimizado",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.8-google-tv-fast-video/CatFlix-Google-TV-0.15.8.apk",
+    "sha256": "32f6149c1f10f76bf444f9f0f24da5a1d54aaefedaba584d3a0f4e1587300e52",
     "available": true
   },
   "admin": {
