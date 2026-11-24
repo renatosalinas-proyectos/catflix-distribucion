@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 35,
-    "versionName": "0.13.4",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.4-android/CatFlix-Android-0.13.4.apk",
-    "sha256": "6df17195199aa0eea988f3f4420e44a0578f054345bdbf0f29a31847b51791c0c",
+    "versionCode": 36,
+    "versionName": "0.13.5 · inicio directo",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.5-android/CatFlix-Android-0.13.5.apk",
+    "sha256": "e47639025730d13d09978dda0bc51d0b0409bbbba96a8499fd9ca1a591725241",
     "available": true
   },
   "googleTv": {
@@ -15,10 +15,10 @@
     "available": true
   },
   "admin": {
-    "versionCode": 34,
-    "versionName": "0.13.3",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.13.3-android/CatFlix-Administrador-0.13.3.apk",
-    "sha256": "5454677b4699d58ceaf16c781fbea7ce73136ee2842210ba9047081a9db741ff",
+    "versionCode": 35,
+    "versionName": "0.13.4 · base limpia",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.4-admin-android/CatFlix-Administrador-0.13.4.apk",
+    "sha256": "00d3f42919f6e5a19c11ed69ac23724595ae3524bfa54019efe939e2e04e5007",
     "available": true
   },
   "windows": {
