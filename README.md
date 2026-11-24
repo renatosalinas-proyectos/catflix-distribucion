@@ -5,10 +5,10 @@ Este repositorio público guarda únicamente las versiones aprobadas para distri
 ## Descargas directas
 
 - [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk)
-- [CatFlix Google TV 0.15.8 (inicio de video optimizado)](https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.8-google-tv-fast-video/CatFlix-Google-TV-0.15.8.apk)
+- [CatFlix Google TV 0.15.9 (inicio de video optimizado)](https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.9-google-tv-prebuffer/CatFlix-Google-TV-0.15.9.apk)
 - [CatFlix Windows x64 0.1.7 alfa](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.7/CatFlix-Windows-x64-0.1.7-ALFA.zip)
 
-La sincronización de listas M3U compartidas sigue pendiente. La versión de Google TV 0.15.8 prepara la conexión del reproductor durante la intro y abre TV en vivo directamente, iniciando la señal cuando existe una superficie de video. El APK usa la firma de distribución permanente para actualizar sobre la versión previa y conservar sus datos.
+La sincronización de listas M3U compartidas sigue pendiente. La versión de Google TV 0.15.9 prepara la señal durante la intro y la reutiliza cuando existe una superficie de video. El APK usa la firma de distribución permanente para actualizar sobre la versión previa y conservar sus datos.
 
 ## Flujo de distribución
 
