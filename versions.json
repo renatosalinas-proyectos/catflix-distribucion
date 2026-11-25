@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 41,
-    "versionName": "0.13.10 · botones Power y Volver del control de radio",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.10-android/CatFlix-Android-0.13.10.apk",
-    "sha256": "7aae43852d36029e4e2450b365e18f8e5ff8805f3649204a7c9188f50eedfe9a",
+    "versionCode": 43,
+    "versionName": "0.13.12 · controles de radio",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.12-android/CatFlix-Android-0.13.12.apk",
+    "sha256": "a23398ece2ef9c314e626634428e8a601f2c6e51d08857247e9bf2f2a47e7601",
     "available": true
   },
   "googleTv": {
@@ -15,10 +15,10 @@
     "available": true
   },
   "admin": {
-    "versionCode": 38,
-    "versionName": "0.13.7 · botones Power y Volver del control de radio",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.7-admin-android/CatFlix-Administrador-0.13.7.apk",
-    "sha256": "9225c220dee1085c5756f8055cf17f1c400be0d5d4df76a0936f23d04a9c0520",
+    "versionCode": 40,
+    "versionName": "0.13.9 · controles de radio",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.9-admin-android/CatFlix-Administrador-0.13.9.apk",
+    "sha256": "ee351038530b6027f387d0c73df2a7c13dfad92efb8850677663e8a2a832cce1",
     "available": true
   },
   "windows": {
