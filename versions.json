@@ -23,9 +23,9 @@
   },
   "windows": {
     "available": true,
-    "versionName": "0.1.10-alfa · inicio automático, favoritas sincronizadas y vídeo",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.1.10/CatFlix-Windows-x64-0.1.10-ALFA.zip",
-    "sha256": "b16b14548de7ea76361b3f0b6a319b603f7b84beea24f188c70a44280ac95f2e"
+    "versionName": "0.2.0-beta · continuar viendo y señales alternativas",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.2.0/CatFlix-Windows-x64-0.2.0-BETA.zip",
+    "sha256": "222d9d9d2de84eee01b45d72e9053d52d4f6099fcf185458eb4f0bcdff604d4b"
   },
   "fireTvOs5": {
     "versionCode": 15,
