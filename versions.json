@@ -23,9 +23,9 @@
   },
   "windows": {
     "available": true,
-    "versionName": "0.1.7-alfa",
-    "url": "https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.7/CatFlix-Windows-x64-0.1.7-ALFA.zip",
-    "sha256": "441c321a4936251ca0d7b4628f9568320ee7a1b647cfe32bc48f6510bc3a8ba7"
+    "versionName": "0.1.8-alfa · filtros de catálogo",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.1.8/CatFlix-Windows-x64-0.1.8-ALFA.zip",
+    "sha256": "45c1de73070a1993aba9755761a98db8fca85017d5fd2b4216c955bafb9cd2cb"
   },
   "fireTvOs5": {
     "versionCode": 15,
