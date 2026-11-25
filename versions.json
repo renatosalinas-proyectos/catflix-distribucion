@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 36,
-    "versionName": "0.13.5 · inicio directo",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.5-android/CatFlix-Android-0.13.5.apk",
-    "sha256": "e47639025730d13d09978dda0bc51d0b0409bbbba96a8499fd9ca1a591725241",
+    "versionCode": 37,
+    "versionName": "0.13.6 · mini reproductor de radio",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.6-android/CatFlix-Android-0.13.6.apk",
+    "sha256": "56bfdfb89c6840170d3e0ab991830887335f24aff1f57660726a9ca508365741",
     "available": true
   },
   "googleTv": {
