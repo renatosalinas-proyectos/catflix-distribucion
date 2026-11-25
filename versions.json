@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 38,
-    "versionName": "0.13.7 · ventana flotante rediseñada",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.7-android/CatFlix-Android-0.13.7.apk",
-    "sha256": "b4b27fdeb25155ed5d4a34a8aa24adccf07a2d47ff474ac517222908a30df821",
+    "versionCode": 39,
+    "versionName": "0.13.8 · listas M3U locales y sincronización maestra",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.8-android/CatFlix-Android-0.13.8.apk",
+    "sha256": "e460a2b9458d93f1223b88c92273f3c0148b62594994864b6b047cebd075b92b",
     "available": true
   },
   "googleTv": {
@@ -15,10 +15,10 @@
     "available": true
   },
   "admin": {
-    "versionCode": 35,
-    "versionName": "0.13.4 · base limpia",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.4-admin-android/CatFlix-Administrador-0.13.4.apk",
-    "sha256": "00d3f42919f6e5a19c11ed69ac23724595ae3524bfa54019efe939e2e04e5007",
+    "versionCode": 36,
+    "versionName": "0.13.5 · listas M3U locales y sincronización maestra",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.5-admin-android/CatFlix-Administrador-0.13.5.apk",
+    "sha256": "16cdb10dee7a48ea980f345bb8a6971d3c3bf80ee66aba3d4c0139d297d86a3c",
     "available": true
   },
   "windows": {
