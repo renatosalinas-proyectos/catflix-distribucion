@@ -6,7 +6,7 @@ Este repositorio público guarda únicamente las versiones aprobadas para distri
 
 - [CatFlix Usuario Android](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.12.9-distribucion/CatFlix-Android.apk)
 - [CatFlix Google TV 0.15.11 (inicio optimizado)](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/v0.15.11-google-tv/CatFlix-Google-TV-0.15.11.apk)
-- [CatFlix Windows x64 0.1.7 alfa](https://github.com/renatosalinas-proyectos/catflix-distribucion/releases/download/catflix-windows-0.1.7/CatFlix-Windows-x64-0.1.7-ALFA.zip)
+- [CatFlix Windows x64 0.1.8 alfa](https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.1.8/CatFlix-Windows-x64-0.1.8-ALFA.zip)
 
 La sincronización de listas M3U compartidas sigue pendiente. Google TV 0.15.11 prioriza el primer cuadro de TV, retrasa las tareas de actualización y sincronización hasta después de que aparezca la imagen y acorta a cuatro segundos la espera inicial para probar una señal alternativa. Conserva el PiP interno de dos canales y la firma permanente para instalar sobre 0.15.10. El objetivo de cinco segundos tras la intro se verificará en el Chromecast real.
 
