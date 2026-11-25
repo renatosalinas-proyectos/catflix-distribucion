@@ -23,9 +23,9 @@
   },
   "windows": {
     "available": true,
-    "versionName": "0.2.0-beta · continuar viendo y señales alternativas",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.2.0/CatFlix-Windows-x64-0.2.0-BETA.zip",
-    "sha256": "222d9d9d2de84eee01b45d72e9053d52d4f6099fcf185458eb4f0bcdff604d4b"
+    "versionName": "0.2.1-beta · navegación y reanudación de episodios",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/catflix-windows-0.2.1/CatFlix-Windows-x64-0.2.1-BETA.zip",
+    "sha256": "187fc708d86cd6dcf952347e7368af8b57e6ab80f3150b86cc8c20b890fcba45"
   },
   "fireTvOs5": {
     "versionCode": 15,
