@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "android": {
-    "versionCode": 48,
-    "versionName": "0.13.17 · ficha de series y controles multimedia",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.17-android/CatFlix-Android-0.13.17.apk",
-    "sha256": "35ec89b2f5bb24f09ccb4ec2ddb7a8f21975462a80b3b6dfd6aee91398f3d9a5",
+    "versionCode": 49,
+    "versionName": "0.13.18 · menú universal restaurado",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.18-android/CatFlix-Android-0.13.18.apk",
+    "sha256": "679ba7f17ebb77d6f0611225506751abda4fb7f36a39776ca201b48689b12f2e",
     "available": true
   },
   "googleTv": {
@@ -15,10 +15,10 @@
     "available": true
   },
   "admin": {
-    "versionCode": 48,
-    "versionName": "0.13.17 · ficha de series y controles multimedia",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.17-admin-android/CatFlix-Administrador-0.13.17.apk",
-    "sha256": "c4a09929f9bf0486dad559daeefe386f6ea39b69d06008e2c1baa3a2b37027ef",
+    "versionCode": 49,
+    "versionName": "0.13.18 · menú universal restaurado",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.13.18-admin-android/CatFlix-Administrador-0.13.18.apk",
+    "sha256": "f7f0f49731a56156348b458dbedfa8b68c8c6b327f3c9784bcd5b4984705b645",
     "available": true
   },
   "windows": {
