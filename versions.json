@@ -9,9 +9,9 @@
   },
   "googleTv": {
     "versionCode": 64,
-    "versionName": "0.15.13 · Recientes de series",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.13-google-tv/app-googleTv-release.apk",
-    "sha256": "ad50a7c09d282d876e33a803e05dec577f60fd5e001062767f10cc2f9f910a65",
+    "versionName": "0.15.12 · ficha de series y favoritas",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.12-google-tv/app-googleTv-release.apk",
+    "sha256": "af9c292ec337bb151b7a6506efb1ab6ef1b1ff9cff614c3e85f55ac139821bdc",
     "available": true
   },
   "admin": {
