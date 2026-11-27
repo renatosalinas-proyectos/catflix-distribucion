@@ -8,10 +8,10 @@
     "available": true
   },
   "googleTv": {
-    "versionCode": 64,
-    "versionName": "0.15.12 · ficha de series y favoritas",
-    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.12-google-tv/app-googleTv-release.apk",
-    "sha256": "af9c292ec337bb151b7a6506efb1ab6ef1b1ff9cff614c3e85f55ac139821bdc",
+    "versionCode": 65,
+    "versionName": "0.15.13 · regreso PiP para Mi TV Stick",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.13-mi-stick/app-googleTv-release.apk",
+    "sha256": "a5f058720ed929fc6b50771e10cd4b254a5e2ff2e318b8e61c0c3eaad1799d02",
     "available": true
   },
   "admin": {
@@ -34,5 +34,13 @@
     "sha256": "d6e9537d9593a3f790df7a8c4f0ffc222e30fd76bd88a05f444238135d803e0c",
     "available": true,
     "device": "Fire TV Stick (2.ª gen., Fire OS 5)"
+  },
+  "miStick": {
+    "versionCode": 65,
+    "versionName": "0.15.13 · Xiaomi Mi TV Stick (Android 9)",
+    "url": "https://github.com/renatosalinas-proyectos/iptv-personal/releases/download/v0.15.13-mi-stick/app-googleTv-release.apk",
+    "sha256": "a5f058720ed929fc6b50771e10cd4b254a5e2ff2e318b8e61c0c3eaad1799d02",
+    "available": true,
+    "device": "Xiaomi Mi TV Stick MITV-AESP0 · Android TV 9"
   }
 }
